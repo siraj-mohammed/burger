@@ -1,0 +1,19 @@
+body {
+    background-color: lightyellow;
+    margin: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  
+img {
+    width: 10%;
+}
+
+h1 {
+    color: orange;
+    font-weight: bold;
+}
+
+li{
+    width: 50%;
+}
+
